@@ -1,0 +1,7 @@
+{
+    "wifiSSID": "<Your WiFi SSID>",
+    "wifiPassword": "<Your WiFi password>",
+    "baseUrl": "https://api.seniverse.com/v3/weather/daily.json?",
+    "apiKey": "<Your API key>",
+    "defaultCity": "<Your default city>"
+}
